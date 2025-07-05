@@ -21,6 +21,9 @@ load_klayout_library(tech, 'SiEPICfab_EBeam_ZEP_Beta', "v%s, Beta components" % 
 load_klayout_library(tech, 'SiEPICfab_EBeam_ZEP_SNSPD', "v%s, SNSPD components" % version, 
     'pymacros/SiEPICfab_EBeam_ZEP_SNSPD_fixed','pymacros/SiEPICfab_EBeam_ZEP_SNSPD_pcells', 
     verbose=verbose)
+load_klayout_library(tech, 'SiEPICfab_EBeam_ZEP_pkirwin', "v%s, Phil components" % version, 
+    'pymacros/SiEPICfab_EBeam_ZEP_pkirwin_fixed','pymacros/SiEPICfab_EBeam_ZEP_pkirwin_pcells', 
+    verbose=verbose)
 
 # List the libraries loaded       
 from SiEPIC.scripts import technology_libraries
