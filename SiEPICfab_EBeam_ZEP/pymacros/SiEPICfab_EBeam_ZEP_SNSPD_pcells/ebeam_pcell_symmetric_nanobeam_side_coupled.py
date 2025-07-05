@@ -222,7 +222,6 @@ class ebeam_pcell_symmetric_nanobeam_side_coupled(pya.PCellDeclarationHelper):
         pin = Path(p1, coupler_width)
         shapes(LayerPinRecN).insert(pin)
         t = Trans(Trans.R0, xa, yp1)
-        text = Text("opt1", t)
         text = Text("opt2", t)
         shape = shapes(LayerPinRecN).insert(text)
         shape.text_size = 0.4 / dbu
