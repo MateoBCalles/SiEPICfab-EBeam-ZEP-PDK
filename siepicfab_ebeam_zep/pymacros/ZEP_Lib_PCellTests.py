@@ -35,13 +35,13 @@ by Jasmina Brar
 library_folders = [
     "SiEPICfab_EBeam_ZEP_pcells",
     "SiEPICfab_EBeam_ZEP_beta_pcells",
-    "SiEPICfab_EBeam_ZEP_SNSPD_pcells"
+    "SiEPICfab_EBeam_ZEP_Superconducting_pcells"
 ]
 
 library_names = [
     "SiEPICfab_EBeam_ZEP",
     "SiEPICfab_EBeam_ZEP_beta",
-    "SiEPICfab_EBeam_ZEP_SNSPD"
+    "SiEPICfab_EBeam_ZEP_Superconducting"
 ]
 
 tech_names = [
@@ -55,8 +55,8 @@ tech_names = [
 # library_names = ["SiEPICfab_EBeam_ZEP", "SiEPICfab_EBeam_ZEP_beta"]
 # tech_names = ["SiEPICfab_EBeam_ZEP", "SiEPICfab_EBeam_ZEP"]
 
-# library_folders = ["SiEPICfab_EBeam_ZEP_pcells", "SiEPICfab_EBeam_ZEP_beta_pcells", "SiEPICfab_EBeam_ZEP_SNSPD_pecells" ]
-# library_names = ["SiEPICfab_EBeam_ZEP", "SiEPICfab_EBeam_ZEP_beta" , "SiEPICfab_EBeam_ZEP_SNSPD"]
+# library_folders = ["SiEPICfab_EBeam_ZEP_pcells", "SiEPICfab_EBeam_ZEP_beta_pcells", "SiEPICfab_EBeam_ZEP_Superconducting_pecells" ]
+# library_names = ["SiEPICfab_EBeam_ZEP", "SiEPICfab_EBeam_ZEP_beta" , "SiEPICfab_EBeam_ZEP_Superconducting"]
 # tech_names = ["SiEPICfab_EBeam_ZEP", "SiEPICfab_EBeam_ZEP", "SiEPICfab_EBeam_ZEP"]
 
 
