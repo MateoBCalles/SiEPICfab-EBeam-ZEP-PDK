@@ -35,19 +35,22 @@ by Jasmina Brar
 library_folders = [
     "SiEPICfab_EBeam_ZEP_pcells",
     "SiEPICfab_EBeam_ZEP_beta_pcells",
-    "SiEPICfab_EBeam_ZEP_Superconducting_pcells"
+    "SiEPICfab_EBeam_ZEP_pkirwin_pcells",
+    "SiEPICfab_EBeam_ZEP_Superconducting_pcells",
 ]
 
 library_names = [
     "SiEPICfab_EBeam_ZEP",
     "SiEPICfab_EBeam_ZEP_beta",
-    "SiEPICfab_EBeam_ZEP_Superconducting"
+    "SiEPICfab_EBeam_ZEP_pkirwin",
+    "SiEPICfab_EBeam_ZEP_Superconducting",
 ]
 
 tech_names = [
     "SiEPICfab_EBeam_ZEP",
     "SiEPICfab_EBeam_ZEP",
-    "SiEPICfab_EBeam_ZEP"
+    "SiEPICfab_EBeam_ZEP",
+    "SiEPICfab_EBeam_ZEP",
 ]
 
 
