@@ -24,9 +24,6 @@ load_klayout_library(tech, 'SiEPICfab_EBeam_ZEP_Superconducting', "v%s, Supercon
 load_klayout_library(tech, 'SiEPICfab_EBeam_ZEP_pkirwin', "v%s, Phil components" % version, 
     'pymacros/SiEPICfab_EBeam_ZEP_pkirwin_fixed','pymacros/SiEPICfab_EBeam_ZEP_pkirwin_pcells', 
     verbose=verbose)
-load_klayout_library(tech, 'SiEPICfab_EBeam_ZEP_PCM', "v%s, PCM components" % version, 
-    'pymacros/SiEPICfab_EBeam_ZEP_PCM_fixed','pymacros/SiEPICfab_EBeam_ZEP_PCM_pcells', 
-    verbose=verbose)
 
 # List the libraries loaded       
 from SiEPIC.scripts import technology_libraries
