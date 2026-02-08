@@ -37,6 +37,7 @@ library_folders = [
     "SiEPICfab_EBeam_ZEP_beta_pcells",
     "SiEPICfab_EBeam_ZEP_pkirwin_pcells",
     "SiEPICfab_EBeam_ZEP_Superconducting_pcells",
+    "SiEPICfab_EBeam_ZEP_PCM_pcells",
 ]
 
 library_names = [
@@ -44,9 +45,11 @@ library_names = [
     "SiEPICfab_EBeam_ZEP_beta",
     "SiEPICfab_EBeam_ZEP_pkirwin",
     "SiEPICfab_EBeam_ZEP_Superconducting",
+    "SiEPICfab_EBeam_ZEP_PCM",
 ]
 
 tech_names = [
+    "SiEPICfab_EBeam_ZEP",
     "SiEPICfab_EBeam_ZEP",
     "SiEPICfab_EBeam_ZEP",
     "SiEPICfab_EBeam_ZEP",
